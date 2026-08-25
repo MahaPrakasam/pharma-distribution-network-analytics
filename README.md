@@ -307,22 +307,23 @@ Pharmaceutical-Distribution-Network-Efficiency-Analytics/
 
 ### Executive Overview
 
-![Executive Overview](Screenshots/executive_overview.png)
+<img width="887" height="495" alt="Executive Overview" src="https://github.com/user-attachments/assets/b28c0ee3-2016-4c7f-8f15-27a6b04c9854" />
+
 
 ### Regional Demand & Distribution
 
-![Regional Demand &
-Distribution](Screenshots/regional_demand_distribution.png)
+<img width="885" height="498" alt="Regional Demand   Distribution" src="https://github.com/user-attachments/assets/5bed7865-bea9-43cc-b025-8950b6ebbc93" />
+
 
 ### Inventory, Spoilage & Expiry Analytics
 
-![Inventory, Spoilage & Expiry
-Analytics](Screenshots/inventory_spoilage_expiry.png)
+<img width="889" height="494" alt="Inventory, Spoilage   Expiry Analytics" src="https://github.com/user-attachments/assets/759d0b50-7cba-4deb-ae67-7a6bdc4bee6d" />
+
 
 ### Logistics & Delivery Performance
 
-![Logistics & Delivery
-Performance](Screenshots/logistics_delivery_performance.png)
+<img width="881" height="493" alt="Logistics   Delivery Performance" src="https://github.com/user-attachments/assets/898965c6-6815-49e4-a1f2-a40e87879926" />
+
 
 ------------------------------------------------------------------------
 
@@ -374,7 +375,10 @@ Navigate through the four dashboard pages:
 
 ## Author
 
-**Maha**
+**Mahalakshmi.P
+AF05258357
+Data and Business Analytics
+Anudip Foundation**
 
 Aspiring Data Analyst \| SQL \| Power BI \| Data Analytics
 
