@@ -375,12 +375,9 @@ Navigate through the four dashboard pages:
 
 ## Author
 
-**Mahalakshmi.P
-AF05258357
-Data and Business Analytics
-Anudip Foundation**
+**Mahalakshmi.P**
 
-Aspiring Data Analyst \| SQL \| Power BI \| Data Analytics
+**AF05258357 \| Data and business analytics \| Anudip Foundation**
 
 ------------------------------------------------------------------------
 
